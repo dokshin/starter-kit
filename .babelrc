@@ -1,0 +1,16 @@
+{
+  "ignore": [
+    "node_modules/**/*"
+  ],
+  "presets": [
+        ["env", {
+            "targets": {
+              "node": "current"
+            }
+        }],
+        "stage-3"
+  ],
+  "plugins": [
+    "transform-runtime"
+  ]
+}

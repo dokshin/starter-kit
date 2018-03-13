@@ -1,0 +1,21 @@
+{
+  "src": {
+    "root":      "src/",
+    "blocks":    "src/blocks/",
+    "styles":    "src/styles/",
+    "scripts":   "src/scripts/",
+    "templates": "src/templates/",
+    "images":    "src/images/",
+    "favicons":  "src/favicons/",
+    "fonts":     "src/fonts/"
+  },
+  "build": {
+    "root":     "build/",
+    "styles":   "build/styles/",
+    "scripts":  "build/scripts/",
+    "images":   "build/images/",
+    "favicons": "build/images/favicons/",
+    "fonts":    "build/fonts/"
+  }
+
+}
